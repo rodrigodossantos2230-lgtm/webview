@@ -62,5 +62,5 @@ O objetivo é **praticar conceitos fundamentais de Java**, como:
 
 ## 📂 Estrutura do Projeto
 📁 src
-├── Main.java
-├── Personagem.java
+  ├── Main.java (Executável)
+  ├── Personagem.java (Onde se define as classes)
